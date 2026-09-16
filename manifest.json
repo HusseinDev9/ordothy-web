@@ -1,0 +1,35 @@
+{
+    "name": "عروضي — عروض تستاهل",
+    "short_name": "عروضي",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#FFFFFF",
+    "theme_color": "#087F5B",
+    "description": "اكتشف أفضل العروض والمتاجر القريبة منك.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "assets/assets/images/ordothy_logo.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/assets/images/ordothy_logo.png",
+            "sizes": "1024x1024",
+            "type": "image/png"
+        },
+        {
+            "src": "assets/assets/images/ordothy_logo.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "assets/assets/images/ordothy_logo.png",
+            "sizes": "1024x1024",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
